@@ -1,5 +1,3 @@
-# -7DaysOfCode Logica JS
-Respostas para cada um dos desafios do 7 Days of Code, envolvendo Lógica com Java Script; 
+Nesse primeiro dia, o desafio consistiu em escrever um código que compare corretamente variáveis do tipo número e “string” e apresente a mensagem com a avaliação correta das variáveis; Criei as variáveis e utilizei a estrutura “if” e “else”; Dentro dessa estrutura, foram inseridos os operadores de comparação; Tais operadores avaliam a condição como “true” ou “false”; Sendo assim, se a condição for implementada, o retorno será “true”, seja para “if” ou para “else” e exibirá a mensagem contida no “console.log” correspondente; Essa parte da programação está contida no arquivo “código.js”; Para poder ver se tudo funcionou como o planejado, criei um arquivo “index.html”, apenas para vincular o arquivo java script, para poder abrir o arquivo “index.html” no navegador e ver o que o console exibirá; Dessa forma pude verificar que tudo funcionou como o planejado:
 
-As respostas serão apresentadas/separadas em "branches" distintas para melhor organização;
-
+![image](https://user-images.githubusercontent.com/121067996/232168670-a9563487-a46a-4b03-a52b-79925184d611.png)
